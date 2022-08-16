@@ -1,0 +1,6 @@
+images/
+test/
+train/
+readimage.py
+readingcsv.py
+__pycache__/
